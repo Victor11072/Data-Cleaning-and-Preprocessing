@@ -24,10 +24,9 @@ This project demonstrates a beginner-level **data cleaning and preprocessing pip
 
 ---
 
-## 📁 Files Included
+## 📁 File Included
 
 - `Beginners_Project2.ipynb` – The Google Colab notebook showing all steps
-- `README.md` – Project overview and description
 
 ---
 
